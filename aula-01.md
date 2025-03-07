@@ -1,5 +1,4 @@
 # Reflexões em Equipe - vamos testar se entendeu o DA?
-Qual a diferença entre desenvolver um software no instituto e em uma empresa?
 
 ---
 
