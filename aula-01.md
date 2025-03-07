@@ -1,7 +1,5 @@
 # Reflexões em Equipe - vamos testar se entendeu o DA?
 
----
-
 **Qual a diferença entre desenvolver um software no instituto e em uma empresa?**  
 
 Ao desenvolver um software no instituto temos o aprendizado como principal objetivo, o que na prática nos dá liberdade para explorar diferentes soluções. Agora em um ambiente profissional, essa liberdade é mais restrita pois o objetivo primário deixa de ser o aprendizado mas sim entregar uma solução para um problema real. Nesse segundo cenário existe uma “pressão comercial”, envolvendo prazos e cobranças mais rígidas.  
