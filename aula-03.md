@@ -1,3 +1,4 @@
+
 ### Late em Dart
 Utilizar o atributo `late` em variáveis faz com que valores sejam mantidos como nulo por um certo tempo, e caso a variável seja exposta neste tempo o Dart não reconhece esse erro na compilação, ou seja, ocorre um erro de execução. 
 ### Parâmetros Posicional
@@ -35,6 +36,8 @@ Outra forma de lidar com parâmetros no construtor é utilizar dois pontos (:) e
   Person(String name, double weight) : _name = name, _weight = weight;
 ```
 
+### Getters e Setters
+```Dart
 class Person {
   String _name;
   double _weight;
@@ -53,5 +56,5 @@ class Person {
   
   Person(String name, double weight) : _name = name, _weight = weight;
 }
-
-[[ddm-atv-01]]
+```
+Dado paradigma orientado a objeto da linguagem, há algumas formas de definir e extrair atributos dos objetos. Entretanto getters e setters não são muito utilizados em Dart. 
